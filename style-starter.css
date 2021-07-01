@@ -1,3 +1,4 @@
+
 @charset "UTF-8";
 /**
 Author: W3layouts
@@ -3293,8 +3294,7 @@ pre {
   .col-lg-4 {
     flex: 0 0 33.33333%;
     max-width: 33.33333%; }
-  .col-lg-5 {
-    flex: 0 0 41.66667%;
+  .col-lg-5 {flex: 0 0 41.66667%;
     max-width: 41.66667%; }
   .col-lg-6 {
     flex: 0 0 50%;
@@ -4352,8 +4352,7 @@ fieldset:disabled a.btn {
 .btn-outline-primary {
   color: #fbaf32;
   border-color: #fbaf32; }
-  .btn-outline-primary:hover {
-    color: #212529;
+  .btn-outline-primary:hover {color: #212529;
     background-color: #fbaf32;
     border-color: #fbaf32; }
   .btn-outline-primary:focus, .btn-outline-primary.focus {
@@ -6863,8 +6862,7 @@ a.close.disabled {
   position: relative;
   width: 100%;
   overflow: hidden; }
-  .carousel-inner::after {
-    display: block;
+  .carousel-inner::after { display: block;
     clear: both;
     content: ""; }
 
@@ -9002,8 +9000,7 @@ button.bg-dark:focus {
   .mx-lg-n1 {
     margin-left: -0.25rem !important; }
   .m-lg-n2 {
-    margin: -0.5rem !important; }
-  .mt-lg-n2,
+    margin: -0.5rem !important; }.mt-lg-n2,
   .my-lg-n2 {
     margin-top: -0.5rem !important; }
   .mr-lg-n2,
@@ -11771,7 +11768,7 @@ div#small-dialog iframe, div#small-dialog1 iframe {
 
 .breadcrumb-bg-about {
   background-size: cover;
-  background-image: url(téléchargement.jpeg);
+  background-image: url(sidi-bou-said-1024x565.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed; }
